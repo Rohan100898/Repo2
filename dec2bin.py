@@ -1,4 +1,5 @@
 # convert decimal to binary
+import pytest
 
 num = 250
 temp = num
